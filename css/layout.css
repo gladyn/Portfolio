@@ -656,7 +656,7 @@ call-to-action .button {
 	font-size: 72px;
    line-height: 72px;
    text-align: left;
-   float: left;
+   float: center;
    color: #ebeeee;
 }
 
